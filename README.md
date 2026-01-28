@@ -20,8 +20,7 @@ STT/TTS 기반 음성 입력을 통해 학사정보를 제공하는 AI 챗봇 �
 
 ## 🎥 시연 영상
 
-[![Demo Video](https://img.youtube.com/vi/on1F1dIaOw0/0.jpg)](https://youtu.be/on1F1dIaOw0)
-
+[시연 영상 보러가기 ▶️](https://youtu.be/on1F1dIaOw0)
 
 ## 📸 화면 예시
 
