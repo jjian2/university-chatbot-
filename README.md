@@ -17,7 +17,12 @@ STT/TTS 기반 음성 입력을 통해 학사정보를 제공하는 AI 챗봇 �
 - 비동기 API 통신 구조 이해  
 - 서비스 안정성 개선 경험  
 
+
+## 🎥 시연 영상
+
+
+
+
 ## 📸 화면 예시
-<img width="279" height="161" alt="image" src="https://github.com/user-attachments/assets/5de2fdd3-1fc1-4096-ba4c-9bd7eb9a806c" />
 
 <img width="306" height="154" alt="image" src="https://github.com/user-attachments/assets/1ae15424-25dd-41e7-a09b-a08ff433a65e" />
